@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.apilist{
+
+  
+}
+.apilst{
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  flex-wrap: wrap;
+  background-color: rgb(15, 175, 60);
+  color: white;
+}
